@@ -1,0 +1,248 @@
+{
+    "foods": [
+      {
+        "name": "Margherita Pizza",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTct5gnfsM4P50jZ6Xd96RHGsq-aR5Taw0jA&s",
+        "difficulty": "Medium",
+        "rating": 4.5
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yFDsz7x5L2gfNTeq3OE9JT61Zy_MBkm1zg&s",
+        "difficulty": "Medium",
+        "rating": 4.8
+      },
+      {
+        "name": "Caesar Salad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXBizSPwtasX2elrfr0GICPlaa9Y-DEsxfQ&s",
+        "difficulty": "Easy",
+        "rating": 4.2
+      },
+      {
+        "name": "Chicken Biryani",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5aumqoMB-pbupHq6l3tfYD1bRyaYky0om8g&s",
+        "difficulty": "Hard",
+        "rating": 4.7
+      },
+      {
+        "name": "Veggie Burger",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGPIbRckxK_Hkfz--bsd5civtMSpzUhmUrA&s",
+        "difficulty": "Easy",
+        "rating": 4.0
+      },
+      {
+        "name": "Pad Thai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_vD-LtEzpv6CsNW9FLWEifXIUs4XjEZ7GBQ&s",
+        "difficulty": "Medium",
+        "rating": 4.6
+      },
+      {
+        "name": "Sushi Rolls",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKX8LEHtFyuOMJ9MKX3pimU3NRLIJRH1yYxA&s",
+        "difficulty": "Hard",
+        "rating": 4.9
+      },
+      {
+        "name": "French Onion Soup",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd27x2QPpMuj2rIYRwrtraYlF_Oy89uVkT9g&s",
+        "difficulty": "Medium",
+        "rating": 4.3
+      },
+      {
+        "name": "Tacos al Pastor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLinPz6-9lkYy9AsCPaklALPYG7dvXkGDfXw&s",
+        "difficulty": "Medium",
+        "rating": 4.5
+      },
+      {
+        "name": "Avocado Toast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY1jJcEf_JgQNqfvaxSucckmfJCHDPIUilLQ&s",
+        "difficulty": "Easy",
+        "rating": 4.1
+      },
+      {
+        "name": "Beef Stroganoff",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSope4KujKtqDaBDvSTiSV047kxVf9F9zCVNQ&s",
+        "difficulty": "Medium",
+        "rating": 4.4
+      },
+      {
+        "name": "Chocolate Cake",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29bsZUhpxEf_DEUkoAnJv6_gszPQQe-ti3g&s",
+        "difficulty": "Medium",
+        "rating": 4.8
+      },
+      {
+        "name": "Pancakes",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaZhrO-Wj7nFfo4aQn0pqZeploLU4PVUSrg&s",
+        "difficulty": "Easy",
+        "rating": 4.3
+      },
+      {
+        "name": "Shrimp Scampi",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjcQTIYJcsC6ryzB0HWWTul30Hr69LXvnxKA&s",
+        "difficulty": "Medium",
+        "rating": 4.7
+      },
+      {
+        "name": "Vegetable Stir-Fry",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZ8UM4pGs-R31NIw8mzGWmM6udzfYus6rLQ&s",
+        "difficulty": "Easy",
+        "rating": 4.0
+      },
+      {
+        "name": "Beef Wellington",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.1l8D2-1dhI30ZflVj8W3RAHaFT&w=339&h=339&c=7",
+        "difficulty": "Hard",
+        "rating": 4.9
+      },
+      {
+        "name": "Ramen",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.KoxDguzaHlKCWcVvzpZSfQAAAA&pid=Api",
+        "difficulty": "Medium",
+        "rating": 4.6
+      },
+      {
+        "name": "Lemon Tart",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCah5P9jw_tv5biwvdICYlr1YThGNbzOuYQ&s",
+        "difficulty": "Medium",
+        "rating": 4.4
+      },
+     
+      {
+        "name": "Caprese Salad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKkXXbjr2ZawKX4wjWRjT8jMkUdZTTAddxrg&s",
+        "difficulty": "Easy",
+        "rating": 4.1
+      },
+      {
+        "name": "Chili Con Carne",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTWKv7BAD4vk_uP8L9y4IhPLy7E-RiqGpFQ&s",
+        "difficulty": "Medium",
+        "rating": 4.7
+      },
+      {
+        "name": "Grilled Cheese Sandwich",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuX4xSrmu11101QG9qGSJ1g9v2Z71vM88KGg&s",
+        "difficulty": "Easy",
+        "rating": 4.0
+      },
+  
+      {
+        "name": "Apple Pie",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgkmo77x9T6lFnbj4bHFF7pT5xljc8TQnp7A&s",
+        "difficulty": "Medium",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Alfredo",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTefwOu9HI2q-R0VhyRznN4Yc185SrV36mQ&s",
+        "difficulty": "Medium",
+        "rating": 4.8
+      },
+  
+      {
+        "name": "Stuffed Bell Peppers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGbXqDIaFg_x4YK4c0VNLbsj9F42o-0vrs3A&s",
+        "difficulty": "Medium",
+        "rating": 4.4
+      },
+      {
+        "name": "Macarons",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkCxWRTZJmW2hep_YRB7ofgJP3PIApwdNxVPGdW0yHZAP9e8-heaKS3pXObmJF3j6Xn76kGUVCfRwzBTfUWbwJXSDU0p4RdAZG4lg_8A",
+        "difficulty": "Hard",
+        "rating": 4.9
+      },
+      {
+        "name": "Pumpkin Soup",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZ6CJ3Qzjsu9ganWj-dKN0Igxr14v-Lfv3o6zC65pZEg45RNK-4HOlr-0W2Hsfo0cL4xg2SPHESXl6OmAm8CH42RDmqT7sc4-5bgms7qA",
+        "difficulty": "Easy",
+        "rating": 4.2
+      },
+      {
+        "name": "Turkey Roast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIN9eIesd7NIv0VScN85JEyueY4B7NvFCY-A&s",
+        "difficulty": "Hard",
+        "rating": 4.8
+      },
+      {
+        "name": "Vegetable Curry",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQljptOQX_Mc5HRRVWflbsvQ4x_glDQY5BGZw&s",
+        "difficulty": "Medium",
+        "rating": 4.3
+      },
+      {
+        "name": "Cheesecake",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdv0xlXQsxTcq2DwG5l06yrCKDACt3hhIqrg&s",
+        "difficulty": "Medium",
+        "rating": 4.9
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwvXKz4-RWwV1NMHndH31V0qduY7yC0VStB4qL3h6BXbnBdJ_NBTJyPSmFdStxGpqluaYJdl1x-ySuyH8Kfeawgadvq-jlgz1HHRv9Mw",
+        "difficulty": "Hard",
+        "rating": 4.7
+      },
+      {
+        "name": "Banana Bread",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOA_BINzJnqJrnth_lR5V9guYGXJhojMHuocigmftZ7qerpgvK1J79qbtn67qOY_23Rgtg1lFZDf3u2R61EHW8oXclPxKP-coQnhRyg",
+        "difficulty": "Easy",
+        "rating": 4.3
+      },
+      {
+        "name": "Pavlova",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDT5H1Bo82HWjyrSMGo4Oh2C6hVWwe092GxB2H2WDfCmj9F4ZkmzONvvWX39wy5D4gB0x65KbcXylXD9aylPwoZzjxw2koP1l9xd2sJBw",
+        "difficulty": "Medium",
+        "rating": 4.8
+      },
+      {
+        "name": "Fish and Chips",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgO8-oDQCyPlkhDeVsIU0qeM5AMlNZdTZNkQ&s",
+        "difficulty": "Easy",
+        "rating": 4.4
+      },
+      {
+        "name": "Pho",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRJOdw3lkEq8xRgyZvul5o8uO5Zuc7lAXSA&s",
+        "difficulty": "Medium",
+        "rating": 4.6
+      },
+      {
+        "name": "Miso Soup",
+        "image": "https://b.thumbs.redditmedia.com/p1E8mXzg8JpmvHluoOkkYLa9X550Q8le3I47uzyEccY.jpg",
+        "difficulty": "Easy",
+        "rating": 4.2
+      },
+      {
+        "name": "Crème Brûlée",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7IPAGu1r1vXnVi6y_-jRkAJgZF01KrfJ3Q&s",
+        "difficulty": "Medium",
+        "rating": 4.9
+      },
+      {
+        "name": "Croissants",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmbQUHb6R0ekLOrg3FAsCrxPo0jzZ1d9Dbg&s",
+        "difficulty": "Hard",
+        "rating": 4.8
+      },
+      {
+        "name": "Margarita",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Bh2q--1nCPp-yaipl-4cRbyIcezYMR6PBA&s",
+        "difficulty": "Easy",
+        "rating": 4.1
+      },
+      {
+        "name": "Ratatouille",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2nMK4QXO-7-wQf6dK-qE4FOENePMXcIGbg&s",
+        "difficulty": "Medium",
+        "rating": 4.5
+      },
+      {
+        "name": "Bruschetta",
+        "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIj4ynyWcMoMG-HXltGBjYgX2bO0Dk8OWPyw&s",
+        "difficulty": "Easy",
+        "rating": 4.0
+      }
+    ]
+  }
+  
